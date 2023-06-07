@@ -12,5 +12,5 @@ addEventListener('fetch', event => {
 })
 
 const ORIGINS = {
-  'proxysite.niceduck.workers.dev': '159.223.132.128:8080'
+  'proxysite.niceduck.workers.dev': '1337x.to'
 }   
